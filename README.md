@@ -1,2 +1,3 @@
-* v117 project for kerning ms
-* Jdk 16 if your building with netbeans / intelij use correto 16.02 
+* Jdk 16.02 - intelij use coretto 16
+* https://www.mediafire.com/file/cmuu3yt7aqfp9cz/v117_Test.rar/file - client to connect
+* Public source will be updating when i get time
